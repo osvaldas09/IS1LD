@@ -1,1 +1,1 @@
-Intelektualiųjų sistemų 1 laboratorinis darbas
+# Intelektualiųjų sistemų 1 laboratorinis darbas
